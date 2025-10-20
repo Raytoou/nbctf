@@ -16,7 +16,7 @@ Le challenge nous demande d'identifier une personne et d'y trouver les informati
 
 - Sa **nationalité**  
 - Sa **taille** en centimètres  
-- Le **propriétaire** du site cité par un média en 2018
+- Le **propriétaire** du site en **2005** cité par un média en 2018
 
 Il nous est d'ailleurs précisé que la publication du média est sur un réseau social très connu en 2018.
 
