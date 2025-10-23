@@ -6,7 +6,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Raytoou/nbctf/main/osint/wanted.jpg" alt="Image du challenge" width="300" style="display:block;margin:auto"/>
+<img src="https://raw.githubusercontent.com/Raytoou/nbctf/main/osint/images/wanted.jpg" alt="Image du challenge" width="300" style="display:block;margin:auto"/>
 
 ---
 
