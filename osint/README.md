@@ -39,7 +39,7 @@ Cette recherche me mène vers un site nommé **Offender Warning** qui présente 
 
 ---
 
-<img src="https://raw.githubusercontent.com/Raytoou/nbctf/main/osint/images/dork.jpg" alt="Image" width="300" style="display:block;margin:auto"/>
+<img src="https://raw.githubusercontent.com/Raytoou/nbctf/main/osint/images/dork.jpg" width="300" style="display:block;margin:auto"/>
 <img src="https://raw.githubusercontent.com/Raytoou/nbctf/main/osint/images/height.jpg" alt="Image" width="300" style="display:block;margin:auto"/>
 
 ---
