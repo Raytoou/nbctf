@@ -6,7 +6,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Raytoou/nbctf/main/osint/images/wanted.jpg" alt="Image du challenge" width="300" style="display:block;margin:auto"/>
+<img src="https://raw.githubusercontent.com/Raytoou/nbctf/main/osint/images/wanted.jpg" alt="Image" width="300" style="display:block;margin:auto"/>
 
 ---
 
@@ -37,7 +37,12 @@ En faisant une recherche inversée via l'image qui nous est donnée, j'accède �
 J'utilise Google pour effectuer une recherche telle que : `"Aram Kohnepushi"`.  
 Cette recherche me mène vers un site nommé **Offender Warning** qui présente les caractéristiques des personnes recherchées la fiche d'Aram indique qu'il est **Iranien** et qu'il fait **1,74 m** (soit **174 cm**).
 
+---
 
+<img src="https://raw.githubusercontent.com/Raytoou/nbctf/main/osint/images/dork.jpg" alt="Image" width="300" style="display:block;margin:auto"/>
+<img src="https://raw.githubusercontent.com/Raytoou/nbctf/main/osint/images/height.jpg" alt="Image" width="300" style="display:block;margin:auto"/>
+
+---
 
 ## 🧠 4. Retrouver le média
 
