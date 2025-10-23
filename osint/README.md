@@ -60,7 +60,7 @@ Je trouve un post d'un média mi-2018 qui mentionne Aram et renvoie vers le site
 Le site n'existe plus, donc j'utilise Wayback Machine pour restaurer le site en 2005 et voir ce qu'il contenait.  
 Sur l'archive de 2005, le propriétaire du site est indiqué dans le copyright tel que : © Cornelia Kiaupa.
 
-<img src="https://raw.githubusercontent.com/Raytoou/nbctf/main/osint/images/wayback.png" width="1000" style="display:block;margin:auto"/>
+<img src="https://raw.githubusercontent.com/Raytoou/nbctf/main/osint/images/waybackk.png" width="1000" style="display:block;margin:auto"/>
 
 
 ---
