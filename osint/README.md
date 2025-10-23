@@ -28,8 +28,9 @@ Exemple → `NBCTF{Chine_181_Carine-Dupont}`
 
 ## 🔍 2. Recherche inversée
 
-En faisant une recherche inversée via l'image qui nous est donnée, j'accède à de multiples sites qui présentent l'individu sur la photo il s'appellerait **Aram Kohnepushi**. Une fois le nom/prénom trouvé, la première chose qui me vient en tête est donc de faire du dork.
+En faisant une recherche inversée via l'image qui nous est donnée, j'accède à de multiples sites qui présentent l'individu sur la photo, il s'appellerait **Aram Kohnepushi**. Une fois le nom/prénom trouvé, la première chose qui me vient en tête est donc de faire du dork.
 
+<img src="https://raw.githubusercontent.com/Raytoou/nbctf/main/osint/images/researchinverted.png" width="1000" style="display:block;margin:auto"/>
 
 
 ## 🌐 3. Dork
@@ -50,12 +51,16 @@ Maintenant qu'on possède son nom, sa taille et sa nationalité, il nous manque 
 L'énoncé précise que la publication du média est sur un réseau social très connu en 2018. J'avais d'abord pensé à Facebook, mais en 2018 **Twitter** avait déjà pris l'ascendant sur Facebook ; je décide donc de chercher sur Twitter.  
 Je trouve un post d'un média mi-2018 qui mentionne Aram et renvoie vers le site `https://www.finn-land.net/`. Le nom de domaine n'est plus détenu aujourd'hui, donc le site n'existe plus.
 
-
+<img src="https://raw.githubusercontent.com/Raytoou/nbctf/main/osint/images/twitter.png" width="600" style="display:block;margin:auto"/>
+<img src="https://raw.githubusercontent.com/Raytoou/nbctf/main/osint/images/finnland.png" width="600" style="display:block;margin:auto"/>
+<img src="https://raw.githubusercontent.com/Raytoou/nbctf/main/osint/images/siteexpiré.png" width="1000" style="display:block;margin:auto"/>
 
 ## 🏁 5. Retrouver le propriétaire malgré le site disparu
 
 Le site n'existe plus, donc j'utilise Wayback Machine pour restaurer le site en 2005 et voir ce qu'il contenait.  
 Sur l'archive de 2005, le propriétaire du site est indiqué dans le copyright tel que : © Cornelia Kiaupa.
+
+<img src="https://raw.githubusercontent.com/Raytoou/nbctf/main/osint/images/wayback.png" width="1000" style="display:block;margin:auto"/>
 
 
 ---
