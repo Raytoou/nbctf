@@ -63,4 +63,13 @@ Sur l'archive de 2005, le propriétaire du site est indiqué dans le copyright t
 <img src="https://raw.githubusercontent.com/Raytoou/nbctf/main/osint/images/waybackk.png" width="1000" style="display:block;margin:auto"/>
 
 
----
+## 🏗️ 6. Construire le flag
+
+Donc avec tous ce qu'on a trouvé précédemment on à :
+
+- Nationalité : Iran
+- Taille : 174cm
+- Propriétaire du site en 2005 : Cornelia Kiaupa
+
+Donc à partir du format attendu `NBCTF{Pays_Taille en cm_Prenom-Nom}` on peut construire le flag qui est : `NBCTF{Iran_174_Cornelia-Kiaupa}`  
+
